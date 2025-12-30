@@ -8,7 +8,7 @@
 ## About Me
 
 I’m a software engineer and undergraduate who lovess coding, building real-world systems, learning new stuff, and sharing my knowledge with more people. </br>I started coding at the age of 12 and been locked in ever since.
-My interests include AI, Mobile development and Bio Tech.
+My interests include AI, Mobile development and Bio Tech. I love volunteering for projects in Healthcare, Fintech and Aviation. 
 
 
 ## Languages & Tools I've worked with
