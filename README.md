@@ -2,24 +2,19 @@
 <!-- VINUDHI'S GITHUB -->
 <!-- ========================= -->
 
-<h1 align="start">Hiyaaa, I'm Vinudhi</h1>
+<h1 align="start">Hiyaaa, I'm Vinudhi ˖°𓇼🌊⋆🐚🫧</h1>
 <h3 align="start">16y/o Software Engineer</h3>
 
 ## About Me
 
-I’m a software engineer and undergraduate who lovess coding, building real-world systems, learning new stuff, and sharing my knowledge with more people. I started coding at the age of 12 and been locked in ever since.
+I’m a software engineer and undergraduate who lovess coding, building real-world systems, learning new stuff, and sharing my knowledge with more people. </br>I started coding at the age of 12 and been locked in ever since.
 My interests include AI, Mobile development and Bio Tech.
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinudhiWahalathanthri&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VinudhiWahalathanthri&layout=compact&langs_count=6&theme=dracula" height="150" />
-</div>
-
-## Languages & Tools
+## Languages & Tools I've worked with
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,java,php,python,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,nextjs,java,php,python,arduino" />
 </div>
 
 <br/>
@@ -45,11 +40,8 @@ My interests include AI, Mobile development and Bio Tech.
   </a>
 </div>
 
+<hr>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VinudhiWahalathanthri/VinudhiWahalathanthri/output/snake.svg" alt="GitHub contribution snake" />
-
-<p align="center">
-  <i>Building. Learning. Becoming.</i> ✨
+<p align="start">
+  <i>Be the change you want to see in this world </i> ✨
 </p>
