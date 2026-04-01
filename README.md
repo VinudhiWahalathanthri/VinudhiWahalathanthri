@@ -1,9 +1,6 @@
-<!-- ========================= -->
-<!-- VINUDHI'S GITHUB -->
-<!-- ========================= -->
 
-<h1 align="start">Hiyaaa, I'm Vinudhi ˖°𓇼🌊⋆🐚🫧</h1>
-<h3 align="start">16y/o Software Engineer</h3>
+<h3 align="left">Hi, I'm Vinudhi</h3>
+<p align="left">16-year-old CS nerd | I personnally like building things and breaking 'em and building them again</p>
 
 ## Languages & Tools I've worked with
 
@@ -17,25 +14,27 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,git,github" />
 </div>
 
-## Internet Presence
+<br/>
 
-<div align="left">
-  <a href="https://www.youtube.com/@VinudhiWahalathanthri">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vinudhi-wahalathanthri/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vinudhiwahalathanthri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/vinuu.vw_forever">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
+## Hackatime Stats
+
+<!-- Wakatime Stats -->
+<a href="https://github-readme-stats.hackclub.dev/api/wakatime?username=3106&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3106&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+</a>
+
+<br/>
+
+## Hackatime Heatmap
+
+<!-- Activity Heatmap -->
+<a href="https://heatmap.shymike.dev?id=3106&timezone=Asia%2FColombo&cell_size=14&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=3106&timezone=Asia%2FColombo&cell_size=14&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=3106&timezone=Asia%2FColombo&cell_size=14&theme=light">
+    </picture>
+</a>
 
 <hr>
 
-<p align="start">
-  <i>Be the change you want to see in this world </i> ✨
-</p>
+<p align="left"><sub>Be the change you want to see in this world.</sub></p>
