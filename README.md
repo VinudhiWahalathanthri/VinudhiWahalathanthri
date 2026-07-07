@@ -1,6 +1,10 @@
 
 <h3 align="left">Hi, I'm Vinudhi</h3>
 <p align="left">16-year-old CS nerd | I personnally like building things and breaking 'em and building them again</p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=VinudhiWahalathanthri&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
+
 
 ## Languages & Tools I've worked with
 
