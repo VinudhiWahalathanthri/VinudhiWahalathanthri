@@ -79,7 +79,7 @@
 
 <br/>
 
-## Hackatime Heatmap
+## Hackatime Heatmap (Daily worker, not a regular commiter)
 
 <!-- Activity Heatmap -->
 <a href="https://heatmap.shymike.dev?id=3106&timezone=Asia%2FColombo&cell_size=14&standalone=true" title="Click to view detailed data for each day!">
